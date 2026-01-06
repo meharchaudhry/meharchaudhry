@@ -1,11 +1,17 @@
-- 👋 Hi, I’m @meharchaudhry
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning computer sience(python/sql) in school
-- 💞️ I’m looking to collaborate on beginner level data science projects/internships
-- 📫 How to reach me
-    meharchaudhry04@gmail.com
+ Hi, I'm Mehar 👋
 
-<!---
-meharchaudhry/meharchaudhry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Science and Economics undergraduate at FLAME University with interests in  
+machine learning, NLP, AI applications, and data-driven problem solving.
+
+ Areas of Interest
+- Data Science & Machine Learning
+- Natural Language Processing
+- Computer Vision
+- Analytics & Dashboards
+- AI for Healthcare & Urban Systems
+
+Technical Skills
+Python, SQL, C++, Machine Learning, NLP, Computer Vision, Tableau, Power BI, R
+
+Reach me at: meharchaudhry04@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/mehar-chaudhry-95a512249/ 
